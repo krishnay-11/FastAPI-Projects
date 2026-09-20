@@ -34,3 +34,11 @@
 - **Database Integration** — Uses SQLModel with SQLite for storing orders and managing database sessions.
 - **Statistics** — Provides daily order summaries with total orders and status-wise counts.
 - **Project Structure** — Uses separate routers, models, database configuration, dependency injection, and application lifespan management.
+
+# 06 Book Exchange API
+
+- **Book management** — Create, update, list, search, and mark books as sold.
+- **User management** — Register users and retrieve the list of registered users.
+- **Database** — Uses SQLModel with SQLite for persistent data storage.
+- **API authentication** — Protected operations use API key authentication through the `X-API-Key` request header.
+- **Project structure** — Organized using routers, models, database configuration, dependency injection, and startup table creation.
