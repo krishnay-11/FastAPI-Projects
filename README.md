@@ -21,3 +21,8 @@
 - Allows filtering reviews by play name.
 - Provides average ratings and total review counts for plays.
 - Uses SQLModel with SQLite for database operations.
+
+# 04 FastAPI foundations
+- **main.py — Introduction to FastAPI with a basic application, GET endpoint, JSON response, and Uvicorn server configuration.
+- **fastapi-foundations — Covers multiple API routes, request objects, path/query parameters, API metadata, tags, and automatic Swagger/OpenAPI documentation.
+- **restapi-basics — Introduces REST API concepts with GET and POST methods, path parameters, query parameters, in-memory data storage, and basic resource creation and retrieval.
